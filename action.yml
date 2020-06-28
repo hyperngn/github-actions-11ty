@@ -3,4 +3,4 @@ description: 'Builds your 11ty/Eleventy static website using GitHub actions.'
 author: 'Khaja Minhajuddin'
 runs:
   using: 'docker'
-  image: 'docker://hyperngn:github-actions-11ty'
+  image: 'docker://hyperngn/github-actions-11ty:latest'
